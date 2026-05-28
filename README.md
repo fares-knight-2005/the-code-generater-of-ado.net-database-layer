@@ -1,5 +1,5 @@
 
-This is a tool to write DB queries for basic CRUD calls.
+This is a tool to write DB (SQL Server) queries in the Data Access Layer for basic CRUD calls.
 It's not a professional way, but if you're writing queries in C#, it's very useful.
 
 How to use:
